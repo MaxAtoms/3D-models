@@ -3,7 +3,7 @@ OpenSCAD Script for creating grids that can be used
 as LED separators on LED matrices.
 
 Author:     github.com/MaxAtoms
-Licence:    GNU General Public License v3.0    
+License:    GNU General Public License v3.0    
 */
 
 /****** Parameters ******/
