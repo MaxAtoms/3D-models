@@ -36,7 +36,7 @@ diaAA = 14.6;
 diaAAA = 10.7;
 
 /*****************************************************************/
-include<roundCornersCube.scad>;
+include<round-corners-cube.scad>;
 
 function calcSize(dia,num) = dia * num + spaceBetween * (num+1);
 
